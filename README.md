@@ -2,15 +2,6 @@
 
 Package nhan dien cam xuc khuon mat bang webcam va dieu khien TurtleBot 4 trong mo phong Small House.
 
-## Chuc nang
-
-- MediaPipe Face Landmarker voi 478 diem khuon mat va Face Blendshapes.
-- MediaPipe Hand Landmarker de nhan dien tay gan vung mieng khi Fear.
-- Nhan dien: Happy, Sad, Angry, Surprise, Fear va Neutral.
-- Loc toi thieu 3 frame lien tiep de giam nhieu.
-- Ket noi ket qua voi /facial_emotion va /cmd_vel.
-- Hien thi anh ket qua trong thu muc results/.
-
 ## Anh ket qua
 
 ![Ket qua 01](results/result_01.png)
@@ -37,7 +28,11 @@ Package nhan dien cam xuc khuon mat bang webcam va dieu khien TurtleBot 4 trong 
 
 ![Ket qua 12](results/result_12.png)
 
-Cac anh tren duoc lay tu thu muc outputEmotion_week8 va dung trong bao cao Word tai docs/Bao_cao_tuan_8_nhan_dien_cam_xuc.docx.
+![Ket qua 13](results/result_13.png)
+
+![Ket qua 14](results/result_14.png)
+
+![Ket qua 15](results/result_15.png)
 
 ## Cai dat
 
